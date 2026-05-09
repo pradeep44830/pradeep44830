@@ -8,7 +8,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/OS-Windows-brightgreen">&nbsp;
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-brightgreen">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Editor-PyCharm-brightgreen">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Editor-Eclipse-brightgreen">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Framework-POM-brightgreen">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Hybrid-brightgreen">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Code-Python-brightgreen">
+</p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   &nbsp;&nbsp;
